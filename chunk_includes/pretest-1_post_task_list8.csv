@@ -1,0 +1,52 @@
+random,question,name,match,life,which_list
+10,9,Anthony Perkins,fact mismatch,dead,8
+11,3,Till Schweiger,full match,alive,8
+13,49,Anne Cunningham,fake,fake,8
+15,19,Ethan Coen,life-fact mismatch,alive,8
+15,36,Aretha Franklin,real,dead,8
+16,2,Nelson Mandela,full match,dead,8
+17,15,Kevin Costner,life mismatch,alive,8
+17,30,Cristiano Ronaldo,real,alive,8
+17,33,Abraham Lincoln,real,dead,8
+20,10,Charlotte Roche,fact mismatch,alive,8
+25,5,Chris Pratt,full match,alive,8
+25,20,Charlton Heston,life-fact mismatch,dead,8
+25,35,Christopher Lee,real,dead,8
+25,41,Laura Reitsch,fake,fake,8
+28,12,Edgar Wright,life mismatch,alive,8
+28,21,Scarlett Johansson,real,alive,8
+28,29,Steven Spielberg,real,alive,8
+30,8,Adam Sandler,fact mismatch,alive,8
+34,45,Stefan Beck,fake,fake,8
+35,1,Brad Pitt,full match,alive,8
+35,28,Angela Merkel,real,alive,8
+35,38,Anne Frank,real,dead,8
+36,46,Harrison Bradley,fake,fake,8
+39,14,Grace Kelly,life mismatch,dead,8
+39,34,Tupac,real,dead,8
+39,37,Ludwig van Beethoven,real,dead,8
+39,50,Leslie Brown,fake,fake,8
+40,6,Serena Williams,fact mismatch,alive,8
+42,17,Uma Thurmann,life-fact mismatch,alive,8
+42,22,Meryl Streep,real,alive,8
+42,32,Nikola Tesla,real,dead,8
+44,13,Marvin Gaye,life mismatch,dead,8
+44,39,Agatha Christie,real,dead,8
+44,40,William Shakespeare,real,dead,8
+48,47,Peter Hunt,fake,fake,8
+48,48,Theresa Stark,fake,fake,8
+50,7,Niki Lauda,fact mismatch,dead,8
+58,18,Fritz Lang,life-fact mismatch,dead,8
+58,23,Axl Rose,real,alive,8
+58,25,Avril Lavigne,real,alive,8
+59,11,Alfred Hitchcock,life mismatch,dead,8
+59,26,Björk,real,alive,8
+59,31,Malcolm X,real,dead,8
+59,42,Ingeborg Geiger,fake,fake,8
+68,16,Marilyn Monroe,life-fact mismatch,dead,8
+68,24,Denzel Washington,real,alive,8
+84,4,Henry Ford,full match,dead,8
+84,27,Haruki Murakami,real,alive,8
+84,43,Florian Mälzer,fake,fake,8
+85,44,Christian Groß,fake,fake,8
+10000,51,void,void,void,void

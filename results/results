@@ -1,0 +1,430 @@
+#
+# Results on Monday August 17 2020 13:28:17 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:79.0) Gecko/20100101 Firefox/79.0
+# Design number was non-random = 0
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. age.
+# 14. sex.
+# 15. L2.
+# 16. whichL2.
+# 17. Comments.
+1597670898,7558907cb469dbf442c867e8885f6689,PennController,0,0,demographics,NULL,PennController,0,_Trial_,Start,1597670868920,22,&nbsp;weiblich&nbsp;,nein,,NULL
+1597670898,7558907cb469dbf442c867e8885f6689,PennController,0,0,demographics,NULL,DropDown,language,Selected,nein,1597670871904,22,&nbsp;weiblich&nbsp;,nein,,0
+1597670898,7558907cb469dbf442c867e8885f6689,PennController,0,0,demographics,NULL,PennController,0,_Trial_,End,1597670873134,22,&nbsp;weiblich&nbsp;,nein,,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1597670898,7558907cb469dbf442c867e8885f6689,PennController,1,0,instructions1,NULL,PennController,1,_Trial_,Start,1597670873139,NULL
+1597670898,7558907cb469dbf442c867e8885f6689,PennController,1,0,instructions1,NULL,PennController,1,_Trial_,End,1597670875017,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. item.
+# 14. type.
+# 15. version.
+# 16. letter.
+# 17. sentence.
+# 18. name.
+# 19. year.
+# 20. fact.
+# 21. full_sentence.
+# 22. condition.
+# 23. life_mismatch.
+# 24. fact_mismatch.
+# 25. list.
+# 26. yes_key.
+# 27. occupation.
+# 28. age.
+# 29. sex.
+# 30. L2.
+# 31. whichL2.
+# 32. Comments.
+1597670898,7558907cb469dbf442c867e8885f6689,PennController,2,0,practice_trials,NULL,PennController,6,_Trial_,Start,1597670875020,p1,practice,p,p,1p,Morgan Freeman,2004,Million Dollar Baby,x 2004 werde ich x x "Million Dollar Baby" x%2C x Morgan Freeman in einem Intervew.,full match,match,match,practice,F,Actors,22,&nbsp;weiblich&nbsp;,nein,,NULL
+1597670898,7558907cb469dbf442c867e8885f6689,PennController,2,0,practice_trials,NULL,Key,q_example_name,PressedKey,J,1597670878553,p1,practice,p,p,1p,Morgan Freeman,2004,Million Dollar Baby,x 2004 werde ich x x "Million Dollar Baby" x%2C x Morgan Freeman in einem Intervew.,full match,match,match,practice,F,Actors,22,&nbsp;weiblich&nbsp;,nein,,Wait success
+1597670898,7558907cb469dbf442c867e8885f6689,PennController,2,0,practice_trials,NULL,PennController,6,_Trial_,End,1597670878957,p1,practice,p,p,1p,Morgan Freeman,2004,Million Dollar Baby,x 2004 werde ich x x "Million Dollar Baby" x%2C x Morgan Freeman in einem Intervew.,full match,match,match,practice,F,Actors,22,&nbsp;weiblich&nbsp;,nein,,NULL
+1597670898,7558907cb469dbf442c867e8885f6689,PennController,3,0,practice_trials,NULL,PennController,7,_Trial_,Start,1597670878959,p2,practice,p,p,1p,Zigmund Zigzag,1956,Rätselhaftes Rätsel,x 1956 werde ich x x "Rätselhaftes Rätsel" x%2C x Zigmund Zigzag in einem Intervew.,fictional,fictional,fictional,practice,F,Actors,22,&nbsp;weiblich&nbsp;,nein,,NULL
+1597670898,7558907cb469dbf442c867e8885f6689,PennController,3,0,practice_trials,NULL,Key,q_example_name,PressedKey,J,1597670879502,p2,practice,p,p,1p,Zigmund Zigzag,1956,Rätselhaftes Rätsel,x 1956 werde ich x x "Rätselhaftes Rätsel" x%2C x Zigmund Zigzag in einem Intervew.,fictional,fictional,fictional,practice,F,Actors,22,&nbsp;weiblich&nbsp;,nein,,Wait success
+1597670898,7558907cb469dbf442c867e8885f6689,PennController,3,0,practice_trials,NULL,PennController,7,_Trial_,End,1597670879621,p2,practice,p,p,1p,Zigmund Zigzag,1956,Rätselhaftes Rätsel,x 1956 werde ich x x "Rätselhaftes Rätsel" x%2C x Zigmund Zigzag in einem Intervew.,fictional,fictional,fictional,practice,F,Actors,22,&nbsp;weiblich&nbsp;,nein,,NULL
+1597670898,7558907cb469dbf442c867e8885f6689,PennController,4,0,practice_trials,NULL,PennController,8,_Trial_,Start,1597670879623,p3,practice,p,p,1p,Franz Joseph I,1981,Österreich,x 1981 werde ich x x "Österreich" x%2C x Franz Joseph I in einem Intervew.,life mismatch,mismatch,match,practice,F,emperor,22,&nbsp;weiblich&nbsp;,nein,,NULL
+1597670898,7558907cb469dbf442c867e8885f6689,PennController,4,0,practice_trials,NULL,Key,q_example_name,PressedKey,J,1597670880303,p3,practice,p,p,1p,Franz Joseph I,1981,Österreich,x 1981 werde ich x x "Österreich" x%2C x Franz Joseph I in einem Intervew.,life mismatch,mismatch,match,practice,F,emperor,22,&nbsp;weiblich&nbsp;,nein,,Wait success
+1597670898,7558907cb469dbf442c867e8885f6689,PennController,4,0,practice_trials,NULL,PennController,8,_Trial_,End,1597670880759,p3,practice,p,p,1p,Franz Joseph I,1981,Österreich,x 1981 werde ich x x "Österreich" x%2C x Franz Joseph I in einem Intervew.,life mismatch,mismatch,match,practice,F,emperor,22,&nbsp;weiblich&nbsp;,nein,,NULL
+1597670898,7558907cb469dbf442c867e8885f6689,PennController,5,0,practice_trials,NULL,PennController,9,_Trial_,Start,1597670880761,p4,practice,p,p,1p,Will Smith,1964,Mary Poppins,x 1964 werde ich x x "Mary Poppins" x%2C x Will Smith in einem Intervew.,life mismatch,mismatch,match,practice,F,Actors,22,&nbsp;weiblich&nbsp;,nein,,NULL
+1597670898,7558907cb469dbf442c867e8885f6689,PennController,5,0,practice_trials,NULL,Key,q_example_name,PressedKey,J,1597670881547,p4,practice,p,p,1p,Will Smith,1964,Mary Poppins,x 1964 werde ich x x "Mary Poppins" x%2C x Will Smith in einem Intervew.,life mismatch,mismatch,match,practice,F,Actors,22,&nbsp;weiblich&nbsp;,nein,,Wait success
+1597670898,7558907cb469dbf442c867e8885f6689,PennController,5,0,practice_trials,NULL,PennController,9,_Trial_,End,1597670882107,p4,practice,p,p,1p,Will Smith,1964,Mary Poppins,x 1964 werde ich x x "Mary Poppins" x%2C x Will Smith in einem Intervew.,life mismatch,mismatch,match,practice,F,Actors,22,&nbsp;weiblich&nbsp;,nein,,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1597670898,7558907cb469dbf442c867e8885f6689,PennController,6,0,instructions2,NULL,PennController,2,_Trial_,Start,1597670882110,NULL
+1597670898,7558907cb469dbf442c867e8885f6689,PennController,6,0,instructions2,NULL,PennController,2,_Trial_,End,1597670886206,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. item.
+# 14. type.
+# 15. version.
+# 16. letter.
+# 17. sentence.
+# 18. name.
+# 19. year.
+# 20. fact.
+# 21. full_sentence.
+# 22. condition.
+# 23. life_mismatch.
+# 24. fact_mismatch.
+# 25. list.
+# 26. life_status.
+# 27. yes_key.
+# 28. occupation.
+# 29. age.
+# 30. sex.
+# 31. L2.
+# 32. whichL2.
+# 33. Comments.
+1597670898,7558907cb469dbf442c867e8885f6689,PennController,55,0,critical_trials,NULL,PennController,58,_Trial_,Start,1597670886208,25,critical,97,a,97a,Bruno Mars,2014,Uptown Funk,Im Jahr 2014 werde ich das Lied "Uptown Funk" herausbringen%2C das stellte Bruno Mars bei einer Pressekonferenz fest.,full match,match,match,L1,alive,F,Musicians,22,&nbsp;weiblich&nbsp;,nein,,NULL
+1597670898,7558907cb469dbf442c867e8885f6689,PennController,55,0,critical_trials,NULL,Key,question_name,PressedKey,J,1597670886647,25,critical,97,a,97a,Bruno Mars,2014,Uptown Funk,Im Jahr 2014 werde ich das Lied "Uptown Funk" herausbringen%2C das stellte Bruno Mars bei einer Pressekonferenz fest.,full match,match,match,L1,alive,F,Musicians,22,&nbsp;weiblich&nbsp;,nein,,Wait success
+1597670898,7558907cb469dbf442c867e8885f6689,PennController,55,0,critical_trials,NULL,PennController,58,_Trial_,End,1597670887651,25,critical,97,a,97a,Bruno Mars,2014,Uptown Funk,Im Jahr 2014 werde ich das Lied "Uptown Funk" herausbringen%2C das stellte Bruno Mars bei einer Pressekonferenz fest.,full match,match,match,L1,alive,F,Musicians,22,&nbsp;weiblich&nbsp;,nein,,NULL
+1597670898,7558907cb469dbf442c867e8885f6689,PennController,27,0,critical_trials,NULL,PennController,30,_Trial_,Start,1597670887655,11,critical,42,c,42c,Marcello Mastroianni,1998,Das süße Leben,Im Jahr 1998 werde ich in dem Film "Das süße Leben" die Hauptrolle spielen%2C das behauptete Marcello Mastroianni auf dem roten Teppich.,life mismatch,mismatch,match,L1,dead,F,Actors,22,&nbsp;weiblich&nbsp;,nein,,NULL
+1597670898,7558907cb469dbf442c867e8885f6689,PennController,27,0,critical_trials,NULL,Key,question_name,PressedKey,J,1597670888137,11,critical,42,c,42c,Marcello Mastroianni,1998,Das süße Leben,Im Jahr 1998 werde ich in dem Film "Das süße Leben" die Hauptrolle spielen%2C das behauptete Marcello Mastroianni auf dem roten Teppich.,life mismatch,mismatch,match,L1,dead,F,Actors,22,&nbsp;weiblich&nbsp;,nein,,Wait success
+1597670898,7558907cb469dbf442c867e8885f6689,PennController,27,0,critical_trials,NULL,PennController,30,_Trial_,End,1597670889142,11,critical,42,c,42c,Marcello Mastroianni,1998,Das süße Leben,Im Jahr 1998 werde ich in dem Film "Das süße Leben" die Hauptrolle spielen%2C das behauptete Marcello Mastroianni auf dem roten Teppich.,life mismatch,mismatch,match,L1,dead,F,Actors,22,&nbsp;weiblich&nbsp;,nein,,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1597670898,7558907cb469dbf442c867e8885f6689,PennController,87,0,break,NULL,PennController,3,_Trial_,Start,1597670889144,NULL
+1597670898,7558907cb469dbf442c867e8885f6689,PennController,87,0,break,NULL,PennController,3,_Trial_,End,1597670891444,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. item.
+# 14. type.
+# 15. version.
+# 16. letter.
+# 17. sentence.
+# 18. name.
+# 19. year.
+# 20. fact.
+# 21. full_sentence.
+# 22. condition.
+# 23. life_mismatch.
+# 24. fact_mismatch.
+# 25. list.
+# 26. life_status.
+# 27. yes_key.
+# 28. occupation.
+# 29. age.
+# 30. sex.
+# 31. L2.
+# 32. whichL2.
+# 33. Comments.
+1597670898,7558907cb469dbf442c867e8885f6689,PennController,25,0,critical_trials,NULL,PennController,28,_Trial_,Start,1597670891447,10,critical,38,d,38d,Charlie Chaplin,2015,The Invisible Woman,Im Jahr 2015 werde ich in dem Film "The Invisible Woman" die Hauptrolle spielen%2C das schilderte Charlie Chaplin interessierten Fans.,life-fact mismatch,mismatch,mismatch,L1,dead,F,Actors,22,&nbsp;weiblich&nbsp;,nein,,NULL
+1597670898,7558907cb469dbf442c867e8885f6689,PennController,25,0,critical_trials,NULL,Key,question_name,PressedKey,J,1597670892174,10,critical,38,d,38d,Charlie Chaplin,2015,The Invisible Woman,Im Jahr 2015 werde ich in dem Film "The Invisible Woman" die Hauptrolle spielen%2C das schilderte Charlie Chaplin interessierten Fans.,life-fact mismatch,mismatch,mismatch,L1,dead,F,Actors,22,&nbsp;weiblich&nbsp;,nein,,Wait success
+1597670898,7558907cb469dbf442c867e8885f6689,PennController,25,0,critical_trials,NULL,PennController,28,_Trial_,End,1597670893180,10,critical,38,d,38d,Charlie Chaplin,2015,The Invisible Woman,Im Jahr 2015 werde ich in dem Film "The Invisible Woman" die Hauptrolle spielen%2C das schilderte Charlie Chaplin interessierten Fans.,life-fact mismatch,mismatch,mismatch,L1,dead,F,Actors,22,&nbsp;weiblich&nbsp;,nein,,NULL
+1597670898,7558907cb469dbf442c867e8885f6689,PennController,48,0,critical_trials,NULL,PennController,51,_Trial_,Start,1597670893182,21,critical,84,a,84a,Charlton Heston,1959,Ben Hur,Im Jahr 1959 werde ich in dem Film "Ben Hur" auftreten%2C das behauptete Charlton Heston gegenüber einer Journalistin.,full match,match,match,L1,dead,F,Actors,22,&nbsp;weiblich&nbsp;,nein,,NULL
+1597670898,7558907cb469dbf442c867e8885f6689,PennController,48,0,critical_trials,NULL,Key,question_name,PressedKey,J,1597670893694,21,critical,84,a,84a,Charlton Heston,1959,Ben Hur,Im Jahr 1959 werde ich in dem Film "Ben Hur" auftreten%2C das behauptete Charlton Heston gegenüber einer Journalistin.,full match,match,match,L1,dead,F,Actors,22,&nbsp;weiblich&nbsp;,nein,,Wait success
+1597670898,7558907cb469dbf442c867e8885f6689,PennController,48,0,critical_trials,NULL,PennController,51,_Trial_,End,1597670894700,21,critical,84,a,84a,Charlton Heston,1959,Ben Hur,Im Jahr 1959 werde ich in dem Film "Ben Hur" auftreten%2C das behauptete Charlton Heston gegenüber einer Journalistin.,full match,match,match,L1,dead,F,Actors,22,&nbsp;weiblich&nbsp;,nein,,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1597670898,7558907cb469dbf442c867e8885f6689,PennController,88,0,post-task-intro,NULL,PennController,4,_Trial_,Start,1597670894702,NULL
+1597670898,7558907cb469dbf442c867e8885f6689,PennController,88,0,post-task-intro,NULL,PennController,4,_Trial_,End,1597670897161,NULL
+#
+# Results on Monday August 17 2020 13:29:30 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:79.0) Gecko/20100101 Firefox/79.0
+# Design number was non-random = 1
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. age.
+# 14. sex.
+# 15. L2.
+# 16. whichL2.
+# 17. Comments.
+1597670970,7558907cb469dbf442c867e8885f6689,PennController,0,0,demographics,NULL,PennController,0,_Trial_,Start,1597670940560,18,&nbsp;weiblich&nbsp;,nein,,NULL
+1597670970,7558907cb469dbf442c867e8885f6689,PennController,0,0,demographics,NULL,DropDown,language,Selected,nein,1597670948340,18,&nbsp;weiblich&nbsp;,nein,,0
+1597670970,7558907cb469dbf442c867e8885f6689,PennController,0,0,demographics,NULL,PennController,0,_Trial_,End,1597670949537,18,&nbsp;weiblich&nbsp;,nein,,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1597670970,7558907cb469dbf442c867e8885f6689,PennController,1,0,instructions1,NULL,PennController,1,_Trial_,Start,1597670949541,NULL
+1597670970,7558907cb469dbf442c867e8885f6689,PennController,1,0,instructions1,NULL,PennController,1,_Trial_,End,1597670950999,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. item.
+# 14. type.
+# 15. version.
+# 16. letter.
+# 17. sentence.
+# 18. name.
+# 19. year.
+# 20. fact.
+# 21. full_sentence.
+# 22. condition.
+# 23. life_mismatch.
+# 24. fact_mismatch.
+# 25. list.
+# 26. yes_key.
+# 27. occupation.
+# 28. age.
+# 29. sex.
+# 30. L2.
+# 31. whichL2.
+# 32. Comments.
+1597670970,7558907cb469dbf442c867e8885f6689,PennController,2,0,practice_trials,NULL,PennController,6,_Trial_,Start,1597670951001,p1,practice,p,p,1p,Morgan Freeman,2004,Million Dollar Baby,x 2004 werde ich x x "Million Dollar Baby" x%2C x Morgan Freeman in einem Intervew.,full match,match,match,practice,F,Actors,18,&nbsp;weiblich&nbsp;,nein,,NULL
+1597670970,7558907cb469dbf442c867e8885f6689,PennController,2,0,practice_trials,NULL,Key,q_example_name,PressedKey,J,1597670952135,p1,practice,p,p,1p,Morgan Freeman,2004,Million Dollar Baby,x 2004 werde ich x x "Million Dollar Baby" x%2C x Morgan Freeman in einem Intervew.,full match,match,match,practice,F,Actors,18,&nbsp;weiblich&nbsp;,nein,,Wait success
+1597670970,7558907cb469dbf442c867e8885f6689,PennController,2,0,practice_trials,NULL,PennController,6,_Trial_,End,1597670952548,p1,practice,p,p,1p,Morgan Freeman,2004,Million Dollar Baby,x 2004 werde ich x x "Million Dollar Baby" x%2C x Morgan Freeman in einem Intervew.,full match,match,match,practice,F,Actors,18,&nbsp;weiblich&nbsp;,nein,,NULL
+1597670970,7558907cb469dbf442c867e8885f6689,PennController,3,0,practice_trials,NULL,PennController,7,_Trial_,Start,1597670952551,p2,practice,p,p,1p,Zigmund Zigzag,1956,Rätselhaftes Rätsel,x 1956 werde ich x x "Rätselhaftes Rätsel" x%2C x Zigmund Zigzag in einem Intervew.,fictional,fictional,fictional,practice,F,Actors,18,&nbsp;weiblich&nbsp;,nein,,NULL
+1597670970,7558907cb469dbf442c867e8885f6689,PennController,3,0,practice_trials,NULL,Key,q_example_name,PressedKey,J,1597670953418,p2,practice,p,p,1p,Zigmund Zigzag,1956,Rätselhaftes Rätsel,x 1956 werde ich x x "Rätselhaftes Rätsel" x%2C x Zigmund Zigzag in einem Intervew.,fictional,fictional,fictional,practice,F,Actors,18,&nbsp;weiblich&nbsp;,nein,,Wait success
+1597670970,7558907cb469dbf442c867e8885f6689,PennController,3,0,practice_trials,NULL,PennController,7,_Trial_,End,1597670953943,p2,practice,p,p,1p,Zigmund Zigzag,1956,Rätselhaftes Rätsel,x 1956 werde ich x x "Rätselhaftes Rätsel" x%2C x Zigmund Zigzag in einem Intervew.,fictional,fictional,fictional,practice,F,Actors,18,&nbsp;weiblich&nbsp;,nein,,NULL
+1597670970,7558907cb469dbf442c867e8885f6689,PennController,4,0,practice_trials,NULL,PennController,8,_Trial_,Start,1597670953945,p3,practice,p,p,1p,Franz Joseph I,1981,Österreich,x 1981 werde ich x x "Österreich" x%2C x Franz Joseph I in einem Intervew.,life mismatch,mismatch,match,practice,F,emperor,18,&nbsp;weiblich&nbsp;,nein,,NULL
+1597670970,7558907cb469dbf442c867e8885f6689,PennController,4,0,practice_trials,NULL,Key,q_example_name,PressedKey,J,1597670954509,p3,practice,p,p,1p,Franz Joseph I,1981,Österreich,x 1981 werde ich x x "Österreich" x%2C x Franz Joseph I in einem Intervew.,life mismatch,mismatch,match,practice,F,emperor,18,&nbsp;weiblich&nbsp;,nein,,Wait success
+1597670970,7558907cb469dbf442c867e8885f6689,PennController,4,0,practice_trials,NULL,PennController,8,_Trial_,End,1597670954944,p3,practice,p,p,1p,Franz Joseph I,1981,Österreich,x 1981 werde ich x x "Österreich" x%2C x Franz Joseph I in einem Intervew.,life mismatch,mismatch,match,practice,F,emperor,18,&nbsp;weiblich&nbsp;,nein,,NULL
+1597670970,7558907cb469dbf442c867e8885f6689,PennController,5,0,practice_trials,NULL,PennController,9,_Trial_,Start,1597670954945,p4,practice,p,p,1p,Will Smith,1964,Mary Poppins,x 1964 werde ich x x "Mary Poppins" x%2C x Will Smith in einem Intervew.,life mismatch,mismatch,match,practice,F,Actors,18,&nbsp;weiblich&nbsp;,nein,,NULL
+1597670970,7558907cb469dbf442c867e8885f6689,PennController,5,0,practice_trials,NULL,Key,q_example_name,PressedKey,J,1597670955539,p4,practice,p,p,1p,Will Smith,1964,Mary Poppins,x 1964 werde ich x x "Mary Poppins" x%2C x Will Smith in einem Intervew.,life mismatch,mismatch,match,practice,F,Actors,18,&nbsp;weiblich&nbsp;,nein,,Wait success
+1597670970,7558907cb469dbf442c867e8885f6689,PennController,5,0,practice_trials,NULL,PennController,9,_Trial_,End,1597670955923,p4,practice,p,p,1p,Will Smith,1964,Mary Poppins,x 1964 werde ich x x "Mary Poppins" x%2C x Will Smith in einem Intervew.,life mismatch,mismatch,match,practice,F,Actors,18,&nbsp;weiblich&nbsp;,nein,,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1597670970,7558907cb469dbf442c867e8885f6689,PennController,6,0,instructions2,NULL,PennController,2,_Trial_,Start,1597670955926,NULL
+1597670970,7558907cb469dbf442c867e8885f6689,PennController,6,0,instructions2,NULL,PennController,2,_Trial_,End,1597670959548,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. item.
+# 14. type.
+# 15. version.
+# 16. letter.
+# 17. sentence.
+# 18. name.
+# 19. year.
+# 20. fact.
+# 21. full_sentence.
+# 22. condition.
+# 23. life_mismatch.
+# 24. fact_mismatch.
+# 25. list.
+# 26. life_status.
+# 27. yes_key.
+# 28. occupation.
+# 29. age.
+# 30. sex.
+# 31. L2.
+# 32. whichL2.
+# 33. Comments.
+1597670970,7558907cb469dbf442c867e8885f6689,PennController,27,0,critical_trials,NULL,PennController,30,_Trial_,Start,1597670959550,11,critical,42,c,42c,Marcello Mastroianni,1998,Das süße Leben,Im Jahr 1998 werde ich in dem Film "Das süße Leben" die Hauptrolle spielen%2C das behauptete Marcello Mastroianni auf dem roten Teppich.,life mismatch,mismatch,match,L1,dead,F,Actors,18,&nbsp;weiblich&nbsp;,nein,,NULL
+1597670970,7558907cb469dbf442c867e8885f6689,PennController,27,0,critical_trials,NULL,Key,question_name,PressedKey,J,1597670959998,11,critical,42,c,42c,Marcello Mastroianni,1998,Das süße Leben,Im Jahr 1998 werde ich in dem Film "Das süße Leben" die Hauptrolle spielen%2C das behauptete Marcello Mastroianni auf dem roten Teppich.,life mismatch,mismatch,match,L1,dead,F,Actors,18,&nbsp;weiblich&nbsp;,nein,,Wait success
+1597670970,7558907cb469dbf442c867e8885f6689,PennController,27,0,critical_trials,NULL,PennController,30,_Trial_,End,1597670961002,11,critical,42,c,42c,Marcello Mastroianni,1998,Das süße Leben,Im Jahr 1998 werde ich in dem Film "Das süße Leben" die Hauptrolle spielen%2C das behauptete Marcello Mastroianni auf dem roten Teppich.,life mismatch,mismatch,match,L1,dead,F,Actors,18,&nbsp;weiblich&nbsp;,nein,,NULL
+1597670970,7558907cb469dbf442c867e8885f6689,PennController,68,0,critical_trials,NULL,PennController,71,_Trial_,Start,1597670961006,31,critical,123,c,123c,Rihanna,1965,Love the Way You Lie,Im Jahr 1965 werde ich das Lied "Love the Way You Lie" aufnehmen%2C das behauptete Rihanna auf einer Aftershowparty.,life mismatch,mismatch,match,L1,alive,F,Musicians,18,&nbsp;weiblich&nbsp;,nein,,NULL
+1597670970,7558907cb469dbf442c867e8885f6689,PennController,68,0,critical_trials,NULL,Key,question_name,PressedKey,J,1597670961479,31,critical,123,c,123c,Rihanna,1965,Love the Way You Lie,Im Jahr 1965 werde ich das Lied "Love the Way You Lie" aufnehmen%2C das behauptete Rihanna auf einer Aftershowparty.,life mismatch,mismatch,match,L1,alive,F,Musicians,18,&nbsp;weiblich&nbsp;,nein,,Wait success
+1597670970,7558907cb469dbf442c867e8885f6689,PennController,68,0,critical_trials,NULL,PennController,71,_Trial_,End,1597670962482,31,critical,123,c,123c,Rihanna,1965,Love the Way You Lie,Im Jahr 1965 werde ich das Lied "Love the Way You Lie" aufnehmen%2C das behauptete Rihanna auf einer Aftershowparty.,life mismatch,mismatch,match,L1,alive,F,Musicians,18,&nbsp;weiblich&nbsp;,nein,,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1597670970,7558907cb469dbf442c867e8885f6689,PennController,87,0,break,NULL,PennController,3,_Trial_,Start,1597670962485,NULL
+1597670970,7558907cb469dbf442c867e8885f6689,PennController,87,0,break,NULL,PennController,3,_Trial_,End,1597670964635,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. item.
+# 14. type.
+# 15. version.
+# 16. letter.
+# 17. sentence.
+# 18. name.
+# 19. year.
+# 20. fact.
+# 21. full_sentence.
+# 22. condition.
+# 23. life_mismatch.
+# 24. fact_mismatch.
+# 25. list.
+# 26. life_status.
+# 27. yes_key.
+# 28. occupation.
+# 29. age.
+# 30. sex.
+# 31. L2.
+# 32. whichL2.
+# 33. Comments.
+1597670970,7558907cb469dbf442c867e8885f6689,PennController,37,0,critical_trials,NULL,PennController,40,_Trial_,Start,1597670964637,16,critical,61,b,61b,Jan-Josef Liefers,2018,Tschiller - Off Duty,Im Jahr 2018 werde ich in dem Film "Tschiller - Off Duty" die Hauptrolle spielen%2C das versicherte Jan-Josef Liefers der Presse.,fact mismatch,match,mismatch,L1,alive,F,Actors,18,&nbsp;weiblich&nbsp;,nein,,NULL
+1597670970,7558907cb469dbf442c867e8885f6689,PennController,37,0,critical_trials,NULL,Key,question_name,PressedKey,J,1597670965139,16,critical,61,b,61b,Jan-Josef Liefers,2018,Tschiller - Off Duty,Im Jahr 2018 werde ich in dem Film "Tschiller - Off Duty" die Hauptrolle spielen%2C das versicherte Jan-Josef Liefers der Presse.,fact mismatch,match,mismatch,L1,alive,F,Actors,18,&nbsp;weiblich&nbsp;,nein,,Wait success
+1597670970,7558907cb469dbf442c867e8885f6689,PennController,37,0,critical_trials,NULL,PennController,40,_Trial_,End,1597670966146,16,critical,61,b,61b,Jan-Josef Liefers,2018,Tschiller - Off Duty,Im Jahr 2018 werde ich in dem Film "Tschiller - Off Duty" die Hauptrolle spielen%2C das versicherte Jan-Josef Liefers der Presse.,fact mismatch,match,mismatch,L1,alive,F,Actors,18,&nbsp;weiblich&nbsp;,nein,,NULL
+1597670970,7558907cb469dbf442c867e8885f6689,PennController,45,0,critical_trials,NULL,PennController,48,_Trial_,Start,1597670966148,20,critical,78,b,78b,Elon Musk,2008,Facebook,Im Jahr 2008 werde ich meine Erfindung "Facebook" vermarkten%2C das schilderte Elon Musk einer Tageszeitung.,fact mismatch,match,mismatch,L1,alive,F,Creators,18,&nbsp;weiblich&nbsp;,nein,,NULL
+1597670970,7558907cb469dbf442c867e8885f6689,PennController,45,0,critical_trials,NULL,Key,question_name,PressedKey,J,1597670966918,20,critical,78,b,78b,Elon Musk,2008,Facebook,Im Jahr 2008 werde ich meine Erfindung "Facebook" vermarkten%2C das schilderte Elon Musk einer Tageszeitung.,fact mismatch,match,mismatch,L1,alive,F,Creators,18,&nbsp;weiblich&nbsp;,nein,,Wait success
+1597670970,7558907cb469dbf442c867e8885f6689,PennController,45,0,critical_trials,NULL,PennController,48,_Trial_,End,1597670967921,20,critical,78,b,78b,Elon Musk,2008,Facebook,Im Jahr 2008 werde ich meine Erfindung "Facebook" vermarkten%2C das schilderte Elon Musk einer Tageszeitung.,fact mismatch,match,mismatch,L1,alive,F,Creators,18,&nbsp;weiblich&nbsp;,nein,,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1597670970,7558907cb469dbf442c867e8885f6689,PennController,88,0,post-task-intro,NULL,PennController,4,_Trial_,Start,1597670967923,NULL
+1597670970,7558907cb469dbf442c867e8885f6689,PennController,88,0,post-task-intro,NULL,PennController,4,_Trial_,End,1597670969189,NULL
